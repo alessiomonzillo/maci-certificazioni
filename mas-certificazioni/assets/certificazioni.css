@@ -1,0 +1,446 @@
+/**
+ * MAS Certificazioni — CSS.
+ * Aspetto allineato al mockup Figma "MA.CI" (lista + dettaglio, desktop + mobile).
+ * Tipografia e bottoni ereditano dal tema Edge/Qode; qui definiamo layout,
+ * struttura e i colori dell'identità del mockup (accento rosso #e12227).
+ *
+ * Variabili principali (ridefinibili a tema):
+ *   --mas-cert-accent : colore accento (rosso del mockup)
+ *   --mas-cert-ink    : colore testo principale
+ *   --mas-cert-muted  : colore testo secondario (sottotitoli)
+ */
+:root {
+	--mas-cert-accent: #e12227;
+	--mas-cert-ink: #000;
+	--mas-cert-muted: #353535;
+	--mas-cert-field-bg: #fbfbfb;
+	--mas-cert-field-border: #f0f0f0;
+}
+
+/* Contenitore generale: larghezza del mockup (1042px) centrata. */
+.mas-cert-archive .wpb_wrapper,
+.mas-cert-single .wpb_wrapper {
+	max-width: 1042px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* =====================================================================
+ * ARCHIVIO — HEADER + TOOLBAR
+ * ================================================================== */
+
+/* Titolo "Certificazioni" centrato (mockup: 40px SemiBold). */
+.mas-cert-header {
+	text-align: center;
+	margin: 0 0 40px;
+}
+.mas-cert-archive-title {
+	margin: 0;
+	font-weight: 600;
+}
+
+/* Toolbar: stack verticale (tab centrati, poi ricerca full-width). */
+.mas-cert-toolbar {
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+	margin: 0 0 64px;
+}
+
+/* ---------- TAB (stile sottolineatura, centrati) ---------- */
+.mas-cert-tabs {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 0;
+}
+.mas-cert-tab {
+	background: transparent;
+	border: 0;
+	border-bottom: 2px solid transparent;
+	padding: 8px 24px;
+	margin: 0;
+	cursor: pointer;
+	font: inherit;
+	font-weight: 700;
+	color: var(--mas-cert-ink);
+	line-height: 1.2;
+	transition: border-color .2s ease, color .2s ease;
+}
+.mas-cert-tab:hover {
+	color: var(--mas-cert-accent);
+}
+.mas-cert-tab.is-active {
+	border-bottom-color: var(--mas-cert-ink);
+}
+
+/* ---------- RICERCA (full-width, icona interna) ---------- */
+.mas-cert-search {
+	position: relative;
+	width: 100%;
+}
+.mas-cert-search-icon {
+	position: absolute;
+	left: 14px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: var(--mas-cert-muted);
+	pointer-events: none;
+}
+.mas-cert-search-input {
+	width: 100%;
+	padding: 16px 16px 16px 48px;
+	background: var(--mas-cert-field-bg);
+	border: 1px solid var(--mas-cert-field-border);
+	border-radius: 0;
+	font: inherit;
+	color: var(--mas-cert-muted);
+	box-shadow: 0 1px 5.85px rgba(185, 185, 185, .08);
+}
+.mas-cert-search-input:focus {
+	outline: none;
+	border-color: var(--mas-cert-accent);
+}
+
+/* =====================================================================
+ * ARCHIVIO — GRIGLIA CARD
+ * ================================================================== */
+.mas-cert-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr); /* 3 colonne desktop */
+	gap: 64px 96px;                        /* gap del mockup tra le card */
+}
+
+/* Tablet: 2 colonne */
+@media (max-width: 1024px) {
+	.mas-cert-grid {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 48px;
+	}
+}
+
+/* Mobile: 1 colonna */
+@media (max-width: 680px) {
+	.mas-cert-grid {
+		grid-template-columns: 1fr;
+		gap: 40px;
+	}
+}
+
+/* Card */
+.mas-cert-card {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	background: transparent;
+}
+.mas-cert-card[hidden] {
+	display: none !important;
+}
+
+/* Immagine card: altezza fissa 174px (mockup), copertura. */
+.mas-cert-card-media {
+	position: relative;
+	line-height: 0;
+}
+.mas-cert-card-img {
+	width: 100%;
+	height: 174px;
+	object-fit: cover;
+	display: block;
+}
+
+/* Icona occhio: quadrato rosso pieno in alto a destra (mockup). */
+.mas-cert-eye {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	width: 40px;
+	height: 40px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--mas-cert-accent);
+	border: none;
+	border-radius: 0;
+	color: #fff;
+	cursor: pointer;
+	transition: opacity .2s ease;
+}
+.mas-cert-eye:hover {
+	opacity: .9;
+}
+
+/* Corpo card: titolo, sottotitolo, excerpt. */
+.mas-cert-card-body {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	flex: 1 1 auto;
+}
+.mas-cert-card-title {
+	margin: 0;
+	font-size: 24px;
+	font-weight: 600;
+	color: var(--mas-cert-ink);
+}
+.mas-cert-card-subtitle {
+	margin: 0;
+	font-size: 18px;
+	font-weight: 600;
+	color: var(--mas-cert-muted);
+	line-height: 1.05;
+}
+
+/* Anteprima a 3 righe (clamp). */
+.mas-cert-card-excerpt {
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	font-size: 18px;
+	color: var(--mas-cert-ink);
+	margin-top: 4px;
+}
+.mas-cert-card-excerpt p {
+	margin: 0;
+}
+
+/*
+ * CTA "Apri documento": bottone rosso pieno a tutta larghezza (mockup).
+ * Sovrascriviamo l'aspetto del bottone del tema (eltdf-btn) per restare
+ * fedeli al mockup, mantenendo comunque le classi del tema nel markup.
+ */
+.mas-cert-card-cta.eltdf-btn,
+.mas-cert-card-cta {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	margin-top: auto;
+	padding: 18px 20px;
+	background: var(--mas-cert-accent) !important;
+	border: 0 !important;
+	border-radius: 0 !important;
+	color: #fff !important;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 1.2;
+	text-align: center;
+	text-decoration: none;
+	transition: opacity .2s ease;
+}
+.mas-cert-card-cta.eltdf-btn:hover,
+.mas-cert-card-cta:hover {
+	opacity: .92;
+	color: #fff !important;
+}
+.mas-cert-card-cta .eltdf-btn-text {
+	color: #fff !important;
+}
+
+.mas-cert-empty,
+.mas-cert-no-results {
+	grid-column: 1 / -1;
+	padding: 24px 0;
+	opacity: .7;
+}
+
+/* =====================================================================
+ * SINGOLO (DETTAGLIO)
+ * ================================================================== */
+.mas-cert-single .wpb_wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+}
+
+/* "Torna indietro" con freccia (mockup: 18px SemiBold). */
+.mas-cert-back {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	margin: 0 0 32px;
+	font-size: 18px;
+	font-weight: 600;
+	color: var(--mas-cert-muted);
+	text-decoration: none;
+}
+.mas-cert-back:hover {
+	color: var(--mas-cert-accent);
+}
+
+/* Label categoria: "Certificazioni ISO" (24px SemiBold). */
+.mas-cert-single-cat {
+	margin: 0;
+	font-size: 24px;
+	font-weight: 600;
+	color: var(--mas-cert-ink);
+}
+
+/* Titolo (40px Medium nel mockup). */
+.mas-cert-single-title {
+	margin: 0;
+	font-size: 40px;
+	font-weight: 500;
+}
+
+/* Sottotitolo grande (32px SemiBold). */
+.mas-cert-single-subtitle {
+	margin: 0;
+	font-size: 32px;
+	font-weight: 600;
+	line-height: 1.3;
+}
+
+/* Intro (20px Regular). */
+.mas-cert-single-intro {
+	margin: 0;
+	font-size: 20px;
+}
+
+/* Hero: immagine 390px con bottone PDF rosso sovrapposto. */
+.mas-cert-hero {
+	position: relative;
+	margin: 0;
+	line-height: 0;
+}
+.mas-cert-hero-img {
+	width: 100%;
+	height: 390px;
+	object-fit: cover;
+	display: block;
+}
+
+/* Bottone "Visualizza PDF": rosso pieno, in basso a destra (mockup). */
+.mas-cert-hero-pdf.eltdf-btn,
+.mas-cert-hero-pdf {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	display: inline-flex;
+	align-items: center;
+	gap: 10px;
+	padding: 8px 12px;
+	background: var(--mas-cert-accent) !important;
+	border: 0 !important;
+	border-radius: 0 !important;
+	color: #fff !important;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: normal;
+	text-decoration: none;
+	cursor: pointer;
+}
+.mas-cert-hero-pdf:hover {
+	opacity: .92;
+	color: #fff !important;
+}
+.mas-cert-hero-pdf .eltdf-btn-text,
+.mas-cert-hero-pdf svg {
+	color: #fff !important;
+}
+
+/* Contenuto: sezioni numerate (H2/H3 24px SemiBold, liste 20px). */
+.mas-cert-single-content {
+	font-size: 20px;
+}
+.mas-cert-single-content h2,
+.mas-cert-single-content h3 {
+	font-size: 24px;
+	font-weight: 600;
+	margin: 24px 0 8px;
+}
+.mas-cert-single-content ul {
+	list-style: disc;
+	padding-left: 30px;
+}
+
+/* Logo (subito prima del form, ~150px nel mockup). */
+.mas-cert-logo {
+	margin: 0;
+}
+.mas-cert-logo-img {
+	width: 150px;
+	max-width: 100%;
+	height: auto;
+}
+
+/* =====================================================================
+ * LIGHTBOX PDF
+ * ================================================================== */
+.mas-cert-lightbox {
+	position: fixed;
+	inset: 0;
+	z-index: 99999;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.mas-cert-lightbox[hidden] {
+	display: none;
+}
+.mas-cert-lightbox-overlay {
+	position: absolute;
+	inset: 0;
+	background: rgba(0, 0, 0, .8);
+	cursor: pointer;
+}
+.mas-cert-lightbox-inner {
+	position: relative;
+	width: min(900px, 92vw);
+	height: min(90vh, 1100px);
+	background: #fff;
+	border-radius: 0;
+	overflow: hidden;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, .4);
+}
+.mas-cert-lightbox-close {
+	position: absolute;
+	top: 8px;
+	right: 12px;
+	z-index: 2;
+	width: 40px;
+	height: 40px;
+	font-size: 28px;
+	line-height: 1;
+	background: var(--mas-cert-accent);
+	color: #fff;
+	border: none;
+	border-radius: 0;
+	cursor: pointer;
+}
+.mas-cert-lightbox-content,
+.mas-cert-pdf-embed {
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+.mas-cert-pdf-missing {
+	padding: 40px;
+	text-align: center;
+}
+
+/* Blocca lo scroll del body quando la lightbox è aperta. */
+body.mas-cert-lightbox-open {
+	overflow: hidden;
+}
+
+/* =====================================================================
+ * MOBILE
+ * ================================================================== */
+@media (max-width: 680px) {
+	.mas-cert-single-title {
+		font-size: 32px;
+	}
+	.mas-cert-single-subtitle {
+		font-size: 24px;
+	}
+	.mas-cert-single-intro,
+	.mas-cert-single-content {
+		font-size: 16px;
+	}
+	.mas-cert-hero-img {
+		height: 260px;
+	}
+}
