@@ -58,6 +58,27 @@ Modificala lì per cambiare l'identità cromatica senza toccare il resto.
 2. Alleggerisci la pagina Servizi > Qualità: lascia l'introduzione e aggiungi
    un link alla nuova sezione /certificazioni/.
 
+== Import contenuti (18 certificazioni) ==
+Nel repo è incluso il file import/certificazioni.wxr.xml con 18 certificazioni
+pronte (testi, sottotitoli, excerpt, contenuto, categoria ISO/Macchine, ordine)
+e le immagini hero+logo (cartella import-assets/, scaricate automaticamente).
+
+Procedura (sito di STAGING consigliato prima del produzione):
+1. Assicurati che il plugin "MAS Certificazioni" sia ATTIVO (crea CPT e categorie).
+2. Strumenti > Importa > WordPress (installa "WordPress Importer" se richiesto).
+3. Carica import/certificazioni.wxr.xml.
+4. IMPORTANTE: spunta "Scarica e importa gli allegati dei file" (Download and
+   import file attachments): senza questa spunta le immagini non vengono caricate.
+5. Avvia l'import.
+6. In bacheca comparirà l'avviso "MAS Certificazioni: Completa loghi importati":
+   cliccaci sopra. Questa azione collega l'immagine in evidenza e il logo a ogni
+   certificazione (necessaria perché l'importer non rimappa i meta immagine custom).
+   È ripetibile senza problemi.
+7. Verifica /certificazioni/ e qualche pagina di dettaglio.
+
+Nota: il bottone "Visualizza PDF" non compare perché le certificazioni non hanno
+un PDF allegato (scelta del cliente). Il campo PDF resta disponibile nel meta box.
+
 == Nota PDF ==
 La visualizzazione del PDF è inline in lightbox, senza bottone di download.
 Questa è una protezione SOLO lato interfaccia: l'URL del file resta tecnicamente
