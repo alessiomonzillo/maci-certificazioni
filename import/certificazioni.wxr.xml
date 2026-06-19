@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>MA.CI Certificazioni</title>
+	<link>https://www.masprevenzione.it</link>
+	<description>Import certificazioni MA.CI</description>
+	<pubDate>Fri, 19 Jun 2026 08:13:18 +0000</pubDate>
+	<language>it-IT</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.masprevenzione.it</wp:base_site_url>
+	<wp:base_blog_url>https://www.masprevenzione.it</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:term><wp:term_id>101</wp:term_id><wp:term_taxonomy>mas_cert_categoria</wp:term_taxonomy><wp:term_slug>iso</wp:term_slug><wp:term_name><![CDATA[ISO]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>102</wp:term_id><wp:term_taxonomy>mas_cert_categoria</wp:term_taxonomy><wp:term_slug>macchine</wp:term_slug><wp:term_name><![CDATA[Macchine]]></wp:term_name></wp:term>
+	<item>
+		<title>uni-pdr-125-hero.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/uni-pdr-125-hero.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/uni-pdr-125-hero.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1001</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[uni-pdr-125-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1000</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/uni-pdr-125-hero.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[uni-pdr-125]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>uni-pdr-125-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/uni-pdr-125-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/uni-pdr-125-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1002</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[uni-pdr-125-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1000</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/uni-pdr-125-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[uni-pdr-125]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>UNI/PdR 125</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-uni-pdr-125</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Le Aree di Valutazione</h2>
+<p>La prassi valuta l'impatto dell'organizzazione attraverso 6 aree strategiche:</p>
+<ul>
+<li>Cultura e strategia: Comunicazione, sensibilizzazione e politiche di inclusione.</li>
+<li>Governance: Presenza del genere meno rappresentato negli organi direttivi.</li>
+<li>Processi HR: Equità nelle fasi di selezione, assunzione e gestione della carriera.</li>
+<li>Opportunità di crescita: Accesso paritario alla formazione e a ruoli di leadership.</li>
+<li>Equità remunerativa (Pay Gap): Monitoraggio e riduzione del divario salariale.</li>
+<li>Tutela della genitorialità: Misure di conciliazione vita-lavoro (work-life balance).</li>
+</ul>
+<h2>2. Vantaggi della Certificazione</h2>
+<ul>
+<li>Sgravi Contributivi: Le aziende certificate possono beneficiare di un esonero dal versamento dei contributi previdenziali (fino all'1%).</li>
+<li>Premialità nei Bandi: Punteggi aggiuntivi nelle gare d'appalto pubbliche e nei finanziamenti europei.</li>
+<li>Reputazione (Employer Branding): Migliora la capacità di attrarre e trattenere talenti, specialmente nelle nuove generazioni.</li>
+<li>Miglioramento delle Performance: Team diversi ed equi mostrano statisticamente una maggiore capacità di innovazione e resilienza.</li>
+</ul>
+<h2>3. Sinergia con l’Ecosistema ISO</h2>
+<p>La UNI/PdR 125 si integra perfettamente con gli standard esistenti:</p>
+<ul>
+<li>ISO 9001: La parità di genere migliora la gestione delle risorse umane, pilastro della qualità dei processi.</li>
+<li>ISO 45001: Il benessere psicofisico e l'equità sono componenti essenziali di un ambiente di lavoro sicuro e sano.</li>
+<li>ISO 30415: Lo standard internazionale sulla Diversità e Inclusione (D&amp;I) che completa la prospettiva della PdR 125.</li>
+</ul>
+<p>La certificazione UNI/PdR 125 non è solo un atto di giustizia sociale, ma un potente driver di crescita economica. Certificare la parità di genere significa trasformare l'azienda in un ecosistema più moderno, equo e competitivo sul mercato globale.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La Prassi di Riferimento UNI/PdR 125:2022 è il documento che definisce i criteri e gli indicatori (KPI) per la certificazione del sistema di gestione per la parità di genere. Rappresenta uno strumento fondamentale per le aziende che vogliono promuovere una cultura inclusiva, ridurre il gender gap e accedere ai benefici previsti dal PNRR.]]></excerpt:encoded>
+		<wp:post_id>1000</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[uni-pdr-125]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Linee Guida per il Sistema di Gestione per la Parità di Genere]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>modello-231-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/modello-231-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/modello-231-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1004</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[modello-231-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1003</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/modello-231-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[modello-231]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>modello-231-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/modello-231-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/modello-231-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1005</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[modello-231-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1003</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/modello-231-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[modello-231]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Modello 231</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-modello-231</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. I Pilastri del Modello 231</h2>
+<ul>
+<li>Mappatura dei Rischi: Identificazione delle aree aziendali sensibili alla commissione di reati.</li>
+<li>Codice Etico: Documento che definisce i valori e i principi di condotta aziendale.</li>
+<li>Organismo di Vigilanza (OdV): Ente autonomo incaricato di vigilare sul funzionamento del modello.</li>
+<li>Sistema Sanzionatorio: Procedure per punire il mancato rispetto delle regole interne.</li>
+<li>Whistleblowing: Canali sicuri per la segnalazione di potenziali condotte illecite.</li>
+</ul>
+<h2>2. Integrazione con le Norme ISO</h2>
+<ul>
+<li>ISO 45001 (Sicurezza): Fornisce efficacia esimente per i reati di omicidio colposo o lesioni gravi sul lavoro.</li>
+<li>ISO 14001 (Ambiente): Mitiga i rischi legati ai reati ambientali.</li>
+<li>ISO 37001 (Anticorruzione): Standard per prevenire reati contro la Pubblica Amministrazione.</li>
+<li>ISO 27001 (Cybersecurity): Protegge l'azienda dai reati informatici.</li>
+<li>ISO 55001 (Asset Management): Garantisce trasparenza nella gestione dei beni aziendali.</li>
+</ul>
+<p>Il Modello 231 trasforma la compliance in un valore competitivo, garantendo un futuro solido e sostenibile all'organizzazione attraverso l'integrazione con gli standard ISO.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Il D.Lgs. 231/2001 ha introdotto in Italia la responsabilità amministrativa degli enti per reati commessi nel loro interesse o vantaggio. L'adozione di un Modello di Organizzazione, Gestione e Controllo (MOG) è lo strumento principale per prevenire tali illeciti e tutelare l'azienda dalle sanzioni pecuniarie e interdittive.]]></excerpt:encoded>
+		<wp:post_id>1003</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[modello-231]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Integrazione con i Sistemi di Gestione ISO]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1004]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-9001-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-9001-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-9001-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1007</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-9001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1006</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-9001-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-9001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-9001-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-9001-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-9001-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1008</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-9001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1006</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-9001-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-9001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 9001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-9001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Linee guida per una lettura approfondita:</p>
+<h2>1. L'Efficienza Operativa e Strategica</h2>
+<ul>
+<li>L'implementazione di un Sistema di Gestione della Qualità (SGQ) basato sulla norma ISO 9001 permette alle aziende di:</li>
+<li>Ottimizzare i processi: Identificare e rimuovere i passaggi ridondanti, riducendo i costi operativi.</li>
+<li>Ridurre gli sprechi: Una gestione controllata minimizza gli errori e i rifacimenti, migliorando il margine di profitto.</li>
+<li>Miglioramento Continuo: Attraverso il ciclo PDCA (Plan-Do-Check-Act), l'azienda evolve costantemente per rispondere alle sfide del mercato.</li>
+</ul>
+<h2>2. Il Valore della Sicurezza Integrata</h2>
+<p>Un aspetto cruciale, spesso sottovalutato, è il legame tra Qualità e Sicurezza. La norma ISO 9001 pone le basi per un ambiente di lavoro protetto e resiliente:</p>
+<ul>
+<li>Sicurezza dei Lavoratori: Procedure standardizzate riducono drasticamente l'improvvisazione, che è la causa principale di infortuni sul lavoro.</li>
+<li>Sicurezza del Prodotto/Servizio: Garantire standard qualitativi elevati significa immettere sul mercato prodotti sicuri per il consumatore finale, riducendo i rischi legali e reputazionali.</li>
+<li>Gestione del Rischio (Risk-based thinking): La norma impone un'analisi preventiva dei rischi, permettendo all'azienda di proteggere i propri asset e la continuità del business.</li>
+</ul>
+<h2>3. Vantaggi Competitivi e Reputazione</h2>
+<p>Ottenere la certificazione apre porte che altrimenti resterebbero chiuse:</p>
+<p>Accesso facilitato a gare d'appalto e forniture per grandi multinazionali. ‘soddisfazione del cliente. affidabilità e serietà.</p>
+<h2>4. | Sette Principi della Qualità</h2>
+<p>La norma si fonda su pilastri che trasformano la cultura aziendale:</p>
+<p>Orientamento al cliente: Capire le necessità presenti e future.</p>
+<p>Leadership: Unità di intenti e direzione strategica.</p>
+<p>Coinvolgimento delle persone: Valorizzare le competenze a ogni livello.</p>
+<p>Approccio per processi: Gestire le attività come sistemi interconnessi.</p>
+<p>Miglioramento: Focalizzazione costante sull'ottimizzazione.</p>
+<p>Processo decisionale basato sulle evidenze: Decisioni basate sull'analisi dei dati reali. Gestione delle relazioni: Collaborazione proficua con i fornitori.</p>
+<p>NOonpoeoNna</p>
+<p>In conclusione, la ISO 9001 è un investimento strategico che garantisce che la qualità e la sicurezza non siano eventi casuali, ma il risultato di un processo deliberato e controllato, essenziale per la longevità di qualsiasi impresa.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Nell'attuale scenario economico globale, la certificazione ISO 9001 non è solo un riconoscimento formale, ma rappresenta il fulcro di un'organizzazione moderna che punta all'eccellenza, all'efficienza e alla protezione dei propri stakeholder.]]></excerpt:encoded>
+		<wp:post_id>1006</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-9001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Qualità, Sicurezza e Successo Aziendale]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1007]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-14001-hero.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14001-hero.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14001-hero.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1010</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-14001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1009</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14001-hero.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-14001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-14001-logo.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14001-logo.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14001-logo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1011</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-14001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1009</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14001-logo.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-14001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 14001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-14001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Perché la ISO 14001 è Fondamentale</h2>
+<p>L'adozione di questa norma non è solo una scelta etica, ma un vantaggio strategico:</p>
+<ul>
+<li>Conformità Legislativa: Riduce il rischio di sanzioni garantendo il rispetto delle leggi ambientali vigenti.</li>
+</ul>
+<p>Efficienza delle Risorse: Ottimizza l'uso di materie prime, energia e acqua, portando a una riduzione dei costi operativi.</p>
+<p>Gestione dei Rifiuti: Migliora i processi di smaltimento e favorisce il riciclo. Reputazione Green: Migliora l'immagine aziendale agli occhi di consumatori, investitori e partner sempre più attenti all'ambiente.</p>
+<p>Integrazione con ISO 9001 e ISO 45001</p>
+<p>La ISO 14001 condivide la stessa struttura (HLS) delle norme sulla Qualità e sulla Sicurezza. Un'azienda certificata in tutti e tre gli ambiti ottiene:</p>
+<p>Visione Olistica: Qualità del prodotto, sicurezza delle persone e rispetto dell'ambiente lavorano in sinergia.</p>
+<p>Prevenzione dei Rischi: Il focus si sposta dalla reazione ai problemi alla prevenzione dei danni ambientali e degli incidenti sul lavoro.</p>
+<p>Semplificazione Documentale: Procedure comuni riducono la burocrazia interna.</p>
+<h2>3. Vantaggi Competitivi</h2>
+<p>| Area di Impatto Vantaggio Riscontrato</p>
+<p>Mercato Accesso a bandi e gare d'appalto che</p>
+<p>premiano i criteri ESG (Environmental, Social, Governance).</p>
+<p>Assicurazioni Potenziale riduzione dei premi per polizze | di responsabilità civile ambientale. Innovazione Spinta verso l'eco-design e lo sviluppo di</p>
+<p>prodotti a basso impatto.</p>
+<p>acli La certificazione ISO 14001 trasforma l'impegno ambientale da costo a opportunità. Proteggere il pianeta diventa un pilastro della strategia aziendale, garantendo resilienza e successo nel lungo periodo.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La Certificazione ISO 14001 è lo standard internazionale che definisce i requisiti per un Sistema di Gestione Ambientale (SGA). In un'epoca segnata dal cambiamento climatico, questa norma permette alle aziende di gestire le proprie responsabilità ambientali in modo sistematico, contribuendo alla sostenibilità globale.]]></excerpt:encoded>
+		<wp:post_id>1009</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-14001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gestione Ambientale e Sostenibilità]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1010]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-14064-hero.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14064-hero.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14064-hero.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1013</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-14064-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1012</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14064-hero.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-14064]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-14064-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14064-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14064-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1014</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-14064-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1012</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-14064-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-14064]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 14064</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-14064</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Le tre parti della norma ISO 14064</h2>
+<p>La norma si articola in tre componenti distinte:</p>
+<ul>
+<li>ISO 14064-1: Specifica i requisiti per la progettazione e lo sviluppo di inventari di GHG a livello di organizzazione.</li>
+<li>ISO 14064-2: Si concentra sulla quantificazione e il monitoraggio dei progetti di riduzione delle emissioni.</li>
+<li>ISO 14064-3: Fornisce le linee guida per la validazione e la verifica delle asserzioni relative ai gas serra.</li>
+</ul>
+<h2>2. Vantaggi della Rendicontazione GHG</h2>
+<ul>
+<li>Trasparenza e Credibilità: Fornisce un metodo standardizzato per comunicare l'impatto ambientale agli stakeholder.</li>
+<li>Gestione del Rischio Climatico: Identifica le aree a maggiore intensità di carbonio, permettendo strategie di riduzione dei costi energetici.</li>
+<li>Accesso ai Mercati dei Crediti di Carbonio: Facilita la partecipazione a sistemi di scambio di quote di emissione.</li>
+<li>Miglioramento del Rating ESG: Supporta le aziende nel soddisfare i criteri di sostenibilità richiesti da investitori e istituti di credito.</li>
+</ul>
+<h2>3. Integrazione nel Sistema di Gestione</h2>
+<p>La ISO 14064 si integra perfettamente con gli altri standard trattati (9001, 14001, 45001, 27001, 42001):</p>
+<ul>
+<li>ISO 14001: Mentre la 14001 gestisce l'impatto ambientale generico, la 14064 scende nel dettaglio analitico delle emissioni di carbonio.</li>
+<li>ISO 9001: La qualità dei dati di emissione diventa parte integrante della qualità dei processi aziendali.</li>
+<li>ISO 42001: L'intelligenza artificiale può essere utilizzata per ottimizzare la raccolta e l'analisi dei dati GHG necessari per la 14064.</li>
+</ul>
+<p>La ISO 14064 trasforma la responsabilità climatica in un asset strategico. In un mondo che corre verso la 'Net Zero', misurare con precisione le proprie emissioni è il primo passo indispensabile per ridurle e certificare il proprio impegno per il pianeta.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 14064 è lo standard internazionale fondamentale per la quantificazione, il monitoraggio e la rendicontazione delle emissioni di gas a effetto serra (Greenhouse Gases - GHG). Rappresenta uno strumento essenziale per le aziende che desiderano gestire la propria 'Carbon Footprint' e contribuire attivamente alla lotta contro il cambiamento climatico.]]></excerpt:encoded>
+		<wp:post_id>1012</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-14064]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Rendicontazione e Verifica dei Gas a Effetto Serra (GHG)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1013]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-15189-hero.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-15189-hero.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-15189-hero.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1016</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-15189-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1015</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-15189-hero.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-15189]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-15189-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-15189-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-15189-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1017</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-15189-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1015</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-15189-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-15189]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 15189</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-15189</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>In questo contesto di riferimento, la norma internazionale ISO 15189 ("Laboratori medici - Requisiti riguardanti la qualità e la competenza") si pone come lo standard d'eccellenza globale, specificamente progettato per strutturare, valutare e attestare la qualità dei laboratori clinici.</p>
+<h2>2. Cos'è la Norma ISO 15189?</h2>
+<p>A differenza della più generica norma ISO 9001 (che valuta il sistema di gestione della qualità in senso lato senza entrare nel merito delle singole attività tecniche), la ISO 15189 esprime un concetto fondamentale: valuta e attesta formalmente la competenza tecnica del laboratorio nello svolgere specifiche prove analitiche. Non basta che il processo sia documentato; è necessario dimostrare che il dato prodotto sia scientificamente solido.</p>
+<p>La norma copre in modo olistico l'intero percorso diagnostico, tradizionalmente suddiviso in tre macro-fasi sequenziali:</p>
+<ul>
+<li>Fase Pre-analitica: comprende l'accettazione, l'identificazione univoca del paziente, il prelievo biologico, il trasporto e i criteri di conservazione e idoneità dei campioni.</li>
+<li>Fase Analitica: riguarda l'esecuzione stretta del test, la calibrazione metrologica delle strumentazioni, il controllo qualità interno (CQI) e i programmi di valutazione esterna della qualità (VEQ).</li>
+<li>Fase Post-analitica: include la validazione clinica dei risultati da parte di professionisti abilitati, la refertazione chiara, il rispetto dei tempi di consegna (Turn-Around Time - TAT) e l'attività di consulenza medica.</li>
+</ul>
+<h2>3. I Pilastri dell'Importanza della ISO 15189</h2>
+<p>3.1 Garanzia di Competenza Tecnica e Riduzione del Rischio Analitico</p>
+<p>L'accreditamento secondo questa norma garantisce che il laboratorio impieghi esclusivamente personale qualificato e sottoposto a formazione continua, utilizzi strumentazioni di ultima generazione costantemente verificate e applichi metodi analitici validati. Questo riduce drasticamente il rischio di errori sistematici o casuali, come falsi positivi/negativi o scambi di campione.</p>
+<p>3.2 Sicurezza e Centralità del Paziente</p>
+<p>Il focus cardine della norma è la gestione del rischio sanitario (Risk Management). Ogni singola procedura è standardizzata e monitorata per minimizzare l'impatto di potenziali anomalie sul paziente, assicurando che l'iter terapeutico successivo si fondi su evidenze diagnostiche oggettive e inconfutabili.</p>
+<p>3.3 Riconoscimento Internazionale e Mutuo Riconoscimento</p>
+<p>Grazie ad accordi internazionali di mutuo riconoscimento (firmati da organismi come EA - European co-operation for Accreditation e ILAC), un referto emesso da un laboratorio accreditato ISO 15189 possiede validità legale e scientifica in tutto il mondo. Questo aspetto è vitale per i pazienti che necessitano di cure all'estero o per le strutture inserite in protocolli di sperimentazione clinica internazionale.</p>
+<p>3.4 Efficienza Operativa e Cultura del Miglioramento Continuo</p>
+<p>La norma introduce l'approccio basato sul rischio (Risk-based thinking). Le non-conformità e i quasi-errori (near miss) non vengono semplicemente corretti, ma analizzati alla radice per prevenire la loro ricorsività. Ciò si traduce in una drastica ottimizzazione dei costi operativi e nell'eliminazione degli sprechi analitici.</p>
+<h2>4. Vantaggi Competitivi per gli Stakeholder</h2>
+<p>L'adozione della norma non costituisce solo un costo o un vincolo, ma genera vantaggi tangibili per tutti gli attori coinvolti nel processo socio-sanitario:</p>
+<p>&lt;w:tblPr&gt;&lt;w:tblW w:w="0" w:type="auto"/&gt;&lt;w:jc w:val="center"/&gt;&lt;w:tblLayout w:type="fixed"/&gt;&lt;w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/&gt;&lt;/w:tblPr&gt;&lt;w:tblGrid&gt;&lt;w:gridCol w:w="2592"/&gt;&lt;w:gridCol w:w="6768"/&gt;&lt;/w:tblGrid&gt;&lt;w:tr w:rsidR="00E353BD" w14:paraId="46B1FF10" w14:textId="77777777"&gt;&lt;w:trPr&gt;&lt;w:jc w:val="center"/&gt;&lt;/w:trPr&gt;&lt;w:tc&gt;&lt;w:tcPr&gt;&lt;w:tcW w:w="2592" w:type="dxa"/&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="005F73"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="66CF38AF" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="FFFFFF"/&gt;&lt;/w:rPr&gt;&lt;w:t&gt;Beneficiario</p>
+<p>&lt;w:tcPr&gt;&lt;w:tcW w:w="6768" w:type="dxa"/&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="005F73"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="36BE899C" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="FFFFFF"/&gt;&lt;/w:rPr&gt;&lt;w:t&gt;Vantaggi Chiave dell'Accreditamento</p>
+<p>&lt;w:trPr&gt;&lt;w:jc w:val="center"/&gt;&lt;/w:trPr&gt;&lt;w:tc&gt;&lt;w:tcPr&gt;&lt;w:tcW w:w="2592" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="3592 D70A" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="005F73"/&gt;&lt;/w:rPr&gt;&lt;w:t&gt;Il Paziente</p>
+<p>&lt;w:tcPr&gt;&lt;w:tcW w:w="6768" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="5D506662" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:t xml:space="preserve"&gt;Sviluppa la massima fiducia nel risultato; ottiene la totale tutela della privacy e la certezza di percorsi sicuri ed esenti da rischi procedurali.</p>
+<p>&lt;w:trPr&gt;&lt;w:jc w:val="center"/&gt;&lt;/w:trPr&gt;&lt;w:tc&gt;&lt;w:tcPr&gt;&lt;w:tcW w:w="2592" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="F4F6F6"/&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="478E916F" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="005F73"/&gt;&lt;/w:rPr&gt;&lt;w:lastRenderedPageBreak/&gt;&lt;w:t&gt;Il Medico Prescrittore</p>
+<p>&lt;w:tcPr&gt;&lt;w:tcW w:w="6768" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="F4F6F6"/&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="436E23EB" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:t&gt;Dispone di un'assoluta certezza diagnostica per le proprie scelte terapeutiche e può contare su un supporto consulenziale di altissimo livello specialistico.</p>
+<p>&lt;w:trPr&gt;&lt;w:jc w:val="center"/&gt;&lt;/w:trPr&gt;&lt;w:tc&gt;&lt;w:tcPr&gt;&lt;w:tcW w:w="2592" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="7CCBEC80" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="005F73"/&gt;&lt;/w:rPr&gt;&lt;w:t&gt;La Struttura / Management</p>
+<p>&lt;w:tcPr&gt;&lt;w:tcW w:w="6768" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="363CEB4D" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:t&gt;Acquisisce un titolo preferenziale e indispensabile per l'accesso a bandi pubblici, accreditamenti istituzionali con il SSN e una netta differenziazione commerciale sul mercato.</p>
+<p>&lt;w:trPr&gt;&lt;w:jc w:val="center"/&gt;&lt;/w:trPr&gt;&lt;w:tc&gt;&lt;w:tcPr&gt;&lt;w:tcW w:w="2592" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="F4F6F6"/&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="7771 E732" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="005F73"/&gt;&lt;/w:rPr&gt;&lt;w:t&gt;Il Personale Interno</p>
+<p>&lt;w:tcPr&gt;&lt;w:tcW w:w="6768" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:bottom w:val="single" w:sz="4" w:space="0" w:color="E0E0E0"/&gt;&lt;/w:tcBorders&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="F4F6F6"/&gt;&lt;w:vAlign w:val="center"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="67BF5CA0" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="120" w:after="120"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:t&gt;Lavora in un contesto organizzativo con ruoli, responsabilità e mansioni definiti, beneficiando di un piano strutturato di crescita e formazione professionale continua.</p>
+<p>In conclusione, l'accreditamento secondo la norma ISO 15189 non deve essere considerato un semplice adempimento burocratico o un mero elemento di marketing da esibire. Esso rappresenta una scelta strategica di eccellenza operativa e clinica. È la prova inconfutabile che il laboratorio opera nel pieno rispetto dei più severi standard internazionali, ponendo l'accuratezza scientifica e la tutela della salute del paziente al centro della propria missione quotidiana.</p>
+<p>&lt;w:tblPr&gt;&lt;w:tblW w:w="0" w:type="auto"/&gt;&lt;w:jc w:val="center"/&gt;&lt;w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/&gt;&lt;/w:tblPr&gt;&lt;w:tblGrid&gt;&lt;w:gridCol w:w="9315"/&gt;&lt;/w:tblGrid&gt;&lt;w:tr w:rsidR="00E353BD" w14:paraId="05955 B14" w14:textId="77777777"&gt;&lt;w:trPr&gt;&lt;w:jc w:val="center"/&gt;&lt;/w:trPr&gt;&lt;w:tc&gt;&lt;w:tcPr&gt;&lt;w:tcW w:w="9360" w:type="dxa"/&gt;&lt;w:tcBorders&gt;&lt;w:left w:val="single" w:sz="36" w:space="0" w:color="005F73"/&gt;&lt;/w:tcBorders&gt;&lt;w:shd w:val="clear" w:color="auto" w:fill="F4F6F6"/&gt;&lt;/w:tcPr&gt;&lt;w:p w14:paraId="698DF24D" w14:textId="77777777" w:rsidR="00E353BD" w:rsidRDefault="00000000"&gt;&lt;w:pPr&gt;&lt;w:spacing w:before="160"/&gt;&lt;w:ind w:left="216" w:right="216"/&gt;&lt;/w:pPr&gt;&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:b/&gt;&lt;w:color w:val="005F73"/&gt;&lt;w:sz w:val="20"/&gt;&lt;/w:rPr&gt;&lt;w:t&gt;PUNTO CHIAVE:La conformità alla ISO 15189 trasforma la qualità da concetto teorico a evidenza oggettiva e misurabile, certificando la competenza tecnica degli operatori e l'affidabilità assoluta dei referti.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Nel panorama sanitario moderno, la medicina di laboratorio gioca un ruolo cruciale e strategico: è ampiamente dimostrato che oltre il 70% delle decisioni cliniche, mediche e terapeutiche si basa direttamente sui risultati dei test eseguiti dal servizio di diagnostica. Di conseguenza, garantire l'accuratezza, l'affidabilità, la tracciabilità e la tempestività del dato analitico non rappresenta soltanto un traguardo operativo di efficienza, ma si configura come un vero e proprio dovere etico e legale nei confronti del paziente.]]></excerpt:encoded>
+		<wp:post_id>1015</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-15189]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[L’Importanza della Certificazione ISO 15189 nei Laboratori Medici e di Diagnostica]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1016]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-20121-hero.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-20121-hero.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-20121-hero.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1019</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-20121-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1018</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-20121-hero.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-20121]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-20121-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-20121-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-20121-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1020</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-20121-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1018</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-20121-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-20121]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 20121</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-20121</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Cos'è la Sostenibilità negli Eventi?</h2>
+<p>Spesso si confonde la sostenibilità con la sola tutela ambientale. In realtà, la ISO 20121 si basa su un approccio tridimensionale:</p>
+<ul>
+<li>Impatto Ambientale: Gestione rifiuti, emissioni di CO2, consumo idrico ed energetico.</li>
+<li>Responsabilità Sociale: Rispetto dei lavoratori, accessibilità, inclusione e impatto sulla comunità locale.</li>
+<li>Vitalità Economica: Trasparenza, sostegno alle imprese locali e gestione efficiente del budget.</li>
+</ul>
+<h2>2. Perché la Certificazione è Fondamentale?</h2>
+<h3>Credibilità e Lotta al Greenwashing</h3>
+<p>Dichiararsi "sostenibili" senza prove è rischioso. La certificazione da parte di un ente terzo indipendente dimostra che l'impegno dell'organizzazione è reale e basato su dati misurabili, proteggendo il brand da accuse di pubblicità ingannevole.</p>
+<h3>Efficienza Operativa e Risparmio</h3>
+<p>Implementare un sistema di gestione ISO obbliga a monitorare i consumi. Ridurre gli sprechi alimentari, ottimizzare i trasporti e minimizzare l'uso di materiali non riciclabili porta a un risparmio economico diretto.</p>
+<h3>Accesso a Nuovi Mercati e Bandi</h3>
+<p>Sempre più istituzioni pubbliche e grandi multinazionali richiedono la certificazione ISO 20121 come prerequisito per poter partecipare a gare d'appalto o per concedere sponsorizzazioni.</p>
+<h2>3. Il Metodo di Lavoro</h2>
+<p>La norma non è una checklist statica, ma un processo dinamico basato sul ciclo PDCA (Plan-Do-Check-Act):</p>
+<ol>
+<li>Pianificare (Plan): Identificare i rischi e definire obiettivi chiari (es. zero plastica).</li>
+<li>Eseguire (Do): Mettere in pratica le azioni previste.</li>
+<li>Verificare (Check): Misurare i risultati (quanta CO2 abbiamo risparmiato?).</li>
+<li>Agire (Act): Correggere gli errori per l'evento successivo.</li>
+</ol>
+<p>Ottenere la certificazione ISO 20121 trasforma un evento in un'esperienza di valore non solo per i partecipanti, ma per l'intera società. È un investimento nel futuro che garantisce resilienza e competitività nel lungo periodo.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 20121 è uno standard internazionale che fornisce una guida e i requisiti per aiutare le organizzazioni a migliorare la sostenibilità dei loro eventi. Nata dall'esperienza delle Olimpiadi di Londra 2012, si applica a tutte le fasi della catena di fornitura, dall'organizzazione alla location, fino ai fornitori di servizi.]]></excerpt:encoded>
+		<wp:post_id>1018</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-20121]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Sistemi di Gestione Sostenibile degli Eventi]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1019]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-22000-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22000-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22000-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1022</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-22000-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1021</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22000-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-22000]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-22000-logo.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22000-logo.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22000-logo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1023</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-22000-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1021</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22000-logo.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-22000]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 22000</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-22000</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Obiettivi e Pilastri della Norma</h2>
+<p>La ISO 22000 si basa su quattro elementi chiave per garantire la sicurezza lungo tutta la catena:</p>
+<ul>
+<li>Comunicazione Interattiva: Essenziale per garantire che tutti i pericoli siano identificati e controllati in ogni fase della filiera.</li>
+<li>Gestione del Sistema: Basata sulla struttura HLS (High Level Structure) per facilitare l'integrazione con ISO 9001 e 14001.</li>
+<li>Programmi di Prerequisiti (PRP): Standard di base per l'igiene e le buone pratiche di fabbricazione.</li>
+<li>Principi HACCP: Analisi sistematica dei rischi e individuazione dei punti critici di controllo.</li>
+</ul>
+<h2>2. Vantaggi per l’Organizzazione</h2>
+<ul>
+<li>Fiducia dei Consumatori: Dimostra un impegno concreto verso la salute pubblica e la sicurezza del prodotto.</li>
+<li>Accesso ai Mercati Internazionali: Essendo uno standard globale, facilita l'esportazione di prodotti alimentari ovunque nel mondo.</li>
+<li>Efficienza Operativa: Riduce sprechi, ritiri di prodotti dal mercato e rischi legali legati a contaminazioni.</li>
+<li>Gestione della Supply Chain: Migliora il controllo sui fornitori e la tracciabilità degli ingredienti.</li>
+</ul>
+<h2>3. Sinergia con l’Ecosistema ISO</h2>
+<p>Come gli altri standard già trattati, la ISO 22000 beneficia di un'integrazione fluida:</p>
+<ul>
+<li>ISO 9001: La sicurezza alimentare diventa parte della qualità globale del servizio offerto.</li>
+<li>ISO 45001: Protegge la salute degli addetti (meccanici e addetti officina/linea) che manovrano i macchinari di produzione alimentare.</li>
+<li>Marcatura CE: Garantisce che i macchinari utilizzati per il processing alimentare siano sicuri per gli operatori e per il prodotto stesso.</li>
+</ul>
+<p>Ottenere la certificazione ISO 22000 non è solo una garanzia di conformità igienica, ma una scelta strategica che protegge il consumatore finale e valorizza il brand in un mercato globale sempre più esigente.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 22000 è lo standard internazionale che definisce i requisiti per un sistema di gestione della sicurezza alimentare (FSMS). Essa integra i principi del sistema HACCP (Hazard Analysis and Critical Control Points) con i programmi di prerequisiti (PRP), garantendo che ogni attore della filiera alimentare sia in grado di controllare i pericoli per la sicurezza alimentare.]]></excerpt:encoded>
+		<wp:post_id>1021</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-22000]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[L’Importanza del Sistema di Gestione per la Sicurezza Alimentare]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1022]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-22301-hero.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22301-hero.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22301-hero.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1025</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-22301-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1024</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22301-hero.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-22301]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-22301-logo.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22301-logo.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22301-logo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1026</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-22301-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1024</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-22301-logo.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-22301]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 22301</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-22301</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Obiettivi e Pilastri del Sistema</h2>
+<p>La ISO 22301 si basa sulla capacità dell'organizzazione di resistere e reagire a eventi avversi:</p>
+<ul>
+<li>Business Impact Analysis (BIA): Identificazione delle attività critiche e dei tempi massimi di interruzione tollerabili.</li>
+<li>Valutazione del Rischio: Analisi delle minacce (cyber, ambientali, logistiche) che potrebbero bloccare l'azienda.</li>
+<li>Strategie di Ripristino: Definizione di piani d'azione chiari per tornare operativi nel minor tempo possibile.</li>
+<li>Resilienza Organizzativa: Sviluppo di una cultura aziendale capace di gestire l'emergenza con competenza.</li>
+</ul>
+<h2>2. Vantaggi Strategici</h2>
+<ul>
+<li>Protezione del Business: Garantisce la consegna di prodotti e servizi ai clienti anche in situazioni di crisi.</li>
+<li>Vantaggio Competitivo: Dimostra a partner e investitori un livello di affidabilità superiore alla concorrenza.</li>
+<li>Vantaggi Finanziari: Riduce le perdite economiche derivanti dai fermi produzione o dalle penali contrattuali.</li>
+<li>Tutela Legale e Reputazionale: Risponde alle aspettative delle parti interessate e protegge l'immagine del brand.</li>
+</ul>
+<h2>3. Sinergia con il Sistema Integrato</h2>
+<p>La ISO 22301 è il 'piano di emergenza' che protegge tutti gli altri standard:</p>
+<ul>
+<li>ISO 27001: Mentre la 27001 protegge i dati, la 22301 garantisce che i servizi IT tornino attivi dopo un attacco informatico.</li>
+<li>ISO 14001: Supporta la resilienza climatica prevista dalla nuova versione 2026, gestendo le crisi derivanti da eventi estremi.</li>
+<li>ISO 55001: Assicura che, in caso di guasto catastrofico di un asset critico, esistano alternative per non fermare l'officina.</li>
+<li>ISO 45001: Mette al primo posto la sicurezza del personale durante le procedure di emergenza e ripristino.</li>
+</ul>
+<p>Implementare la ISO 22301 significa non lasciare nulla al caso. In un mondo imprevedibile, la continuità operativa trasforma la vulnerabilità in una forza competitiva, assicurando che l'azienda sia sempre pronta a ripartire.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 22301 definisce i requisiti per un sistema di gestione della continuità operativa (BCMS). Essa fornisce alle aziende un quadro per proteggersi, ridurre la probabilità di accadimento e garantire il ripristino delle attività a seguito di incidenti critici o interruzioni impreviste.]]></excerpt:encoded>
+		<wp:post_id>1024</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-22301]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[L’Importanza della Continuità Operativa (Business Continuity)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1025]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>pas-24000-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/pas-24000-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/pas-24000-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1028</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[pas-24000-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1027</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/pas-24000-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[pas-24000]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>pas-24000-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/pas-24000-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/pas-24000-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1029</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[pas-24000-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1027</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/pas-24000-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[pas-24000]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>PAS 24000</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-pas-24000</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. I Pilastri della Sostenibilità Sociale</h2>
+<p>La norma si concentra su aree critiche per l'etica e la responsabilità sociale d'impresa:</p>
+<ul>
+<li>Diritti Umani: Rispetto della dignità umana e prevenzione di ogni forma di sfruttamento.</li>
+<li>Pratiche Lavorative: Garanzia di condizioni di lavoro eque, salute e sicurezza, e salari dignitosi.</li>
+<li>Coinvolgimento della Comunità: Supporto allo sviluppo locale e gestione degli impatti sociali sul territorio.</li>
+<li>Governance Etica: Trasparenza, lotta alla corruzione e responsabilità nelle decisioni aziendali.</li>
+<li>Responsabilità nella Catena di Fornitura: Estensione dei requisiti sociali ai partner e ai fornitori.</li>
+</ul>
+<h2>2. Vantaggi della Certificazione PAS 24000</h2>
+<ul>
+<li>Gestione del Rischio Reputazionale: Protegge il brand da scandali legati a pratiche sociali scorrette.</li>
+<li>Conformità ai Criteri ESG: Risponde alle crescenti richieste di investitori e consumatori riguardo alla 'S' (Social) del rating ESG.</li>
+<li>Attrazione di Talenti: Un forte impegno sociale rende l'azienda più attraente per i lavoratori che cercano scopi e valori condivisibili.</li>
+<li>Accesso a Nuovi Mercati: Molte multinazionali richiedono la conformità sociale come pre-requisito per la qualifica dei fornitori.</li>
+</ul>
+<h2>3. Sinergia con il Sistema Integrato</h2>
+<p>La PAS 24000 completa il sistema di gestione integrato aziendale:</p>
+<ul>
+<li>ISO 9001: La sostenibilità sociale migliora la resilienza organizzativa, garantendo stabilità alla catena di fornitura.</li>
+<li>ISO 14001: Unisce la protezione del pianeta alla protezione delle persone (Just Transition).</li>
+<li>ISO 45001: Mentre la 45001 si focalizza sulla sicurezza fisica, la PAS 24000 amplia lo spettro ai diritti e al benessere sociale globale.</li>
+<li>UNI/PdR 125: La parità di genere è una componente essenziale del più ampio quadro della sostenibilità sociale definito dalla PAS 24000.</li>
+</ul>
+<p>La PAS 24000 rappresenta la maturità di un'organizzazione che non guarda solo al profitto, ma al valore che genera per le persone. Integrare la sostenibilità sociale significa costruire un'azienda più solida, etica e pronta per le sfide di un mercato sempre più consapevole.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La specifica PAS 24000:2022 è lo standard internazionale che definisce i requisiti per un Sistema di Gestione della Sostenibilità Sociale. Essa fornisce alle organizzazioni un quadro strutturato per gestire l'impatto sociale delle proprie attività, garantendo il rispetto dei diritti umani, del lavoro dignitoso e del benessere della comunità.]]></excerpt:encoded>
+		<wp:post_id>1027</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[pas-24000]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Sistema di Gestione per la Sostenibilità Sociale]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1028]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-27001-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-27001-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-27001-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1031</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-27001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1030</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-27001-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-27001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-27001-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-27001-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-27001-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1032</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-27001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1030</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-27001-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-27001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 27001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-27001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+<li>Perché la ISO 27001 è Fondamentale L'adozione di questo standard permette di proteggere l'azienda su tre livelli chiave (Triade CIA):</li>
+<li>Riservatezza (Confidentiality): Assicurare che le informazioni siano accessibili solo a chi ne ha il diritto.</li>
+<li>Integrità (Integrity): Garantire che i dati non vengano alterati o manipolati da soggetti non autorizzati.</li>
+<li>Disponibilità (Availability): Assicurare che i sistemi e i dati siano pronti all'uso quando necessario.</li>
+</ul>
+<h2>2. Vantaggi della Certificazione</h2>
+<ul>
+<li>Resilienzaagli Attacchi Cyber: Implementa controlli tecnici e organizzativi per prevenire e mitigare violazioni dei dati {Data Breach).</li>
+<li>Conformità al GDPR: Facilita il rispetto del Regolamento Europeo sulla Privacy, riducendo il rischio di sanzioni pesanti.</li>
+<li>Continuità Operativa (Business Continuity): Minimizza i tempi di fermo in caso di attacco o incidente informatico,</li>
+<li>Vantaggio Competitivo: Dimostra a clienti e partner un impegno serio nella protezione dei loro dati sensibili,</li>
+<li>Un Sistema di Gestione Integrato La ISO 27001 si sposa perfettamente con gli altri standard trattati (9001, 14001, 45001) condividendo la struttura HLS:</li>
+<li>Qualità (9001): Un servizio di qualità deve essere sicuro e affidabile.</li>
+<li>Sicurezza (45001): La sicurezza delle persone oggi passa anche attraverso la protezione dei sistemi che controllano gli impianti.</li>
+<li>Ambiente(14001): La digitalizzazione sicura riduce l'impronta cartacea e ottimizza i flussi energetici.</li>
+</ul>
+<p>er OREZO</p>
+<p>La Cyber Security non è un problema dell'ufficio IT, ma una priorità del management. La ISO 27001 trasforma la vulnerabilità in forza, proteggendo il segreto industriale e la fiducia del mercato.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[In un'era digitale dominata da minacce cyber sempre più sofisticate, la ISO/IEC 27001 rappresenta lo standard internazionale per eccellenza per la gestione della Sicurezza delle Informazioni (ISMS). Non si limita alla protezione dei dati informatici, ma copre l'intero patrimonio informativo aziendale.]]></excerpt:encoded>
+		<wp:post_id>1030</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-27001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[La Protezione del Patrimonio Informativo e la Cyber Security]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1031]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-31000-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-31000-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-31000-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1034</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-31000-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1033</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-31000-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-31000]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-31000-logo.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-31000-logo.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-31000-logo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1035</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-31000-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1033</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-31000-logo.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-31000]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 31000</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-31000</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. I Fondamenti della Gestione del Rischio</h2>
+<p>Secondo la ISO 31000, la gestione del rischio deve essere:</p>
+<ul>
+<li>Integrata: Parte integrante di tutte le attività dell'organizzazione.</li>
+<li>Strutturata e Completa: Per ottenere risultati coerenti e comparabili.</li>
+<li>Personalizzata: Adattata al contesto esterno e interno dell'azienda.</li>
+<li>Inclusiva: Coinvolge tempestivamente gli stakeholder per garantire che la gestione rimanga pertinente.</li>
+<li>Dinamica: Capace di anticipare, rilevare e rispondere ai cambiamenti del mercato.</li>
+</ul>
+<h2>2. Il Processo Operativo</h2>
+<p>Il cuore della norma è il processo iterativo che comprende:</p>
+<ul>
+<li>Identificazione: Individuare le fonti di rischio e gli eventi potenziali.</li>
+<li>Analisi: Comprendere la natura del rischio e determinarne il livello.</li>
+<li>Valutazione: Confrontare i risultati dell'analisi con i criteri di rischio per decidere se intervenire.</li>
+<li>Trattamento: Selezionare e attuare opzioni per modificare il rischio (mitigazione, trasferimento, accettazione).</li>
+</ul>
+<h2>3. Perché la ISO 31000 è il "Motore" del Sistema Integrato</h2>
+<p>L'adozione di questa metodologia potenzia l'intero ecosistema aziendale:</p>
+<ul>
+<li>Supporto alla 231: Fornisce la metodologia scientifica per la mappatura dei rischi reato.</li>
+<li>Sinergia con ISO 9001 e 45001: Aiuta a passare da un approccio reattivo a uno proattivo, prevenendo infortuni e non conformità.</li>
+<li>Resilienza (ISO 22301): Costituisce la base per identificare le minacce alla continuità operativa.</li>
+<li>Cyber Security (ISO 27001): Offre il quadro per valutare le minacce informatiche in modo pesato.</li>
+</ul>
+<p>La ISO 31000 trasforma l'incertezza in un'opportunità. Gestire il rischio non significa solo evitare il pericolo, ma prendere decisioni informate per proteggere il valore aziendale e favorire la crescita sostenibile.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 31000:2018 è lo standard internazionale che fornisce linee guida, principi e un quadro di riferimento per la gestione di qualsiasi tipo di rischio in modo sistematico e trasparente. A differenza di altre norme, non è certificabile, ma rappresenta il pilastro metodologico su cui poggiano tutti gli altri sistemi di gestione (Qualità, Sicurezza, Ambiente).]]></excerpt:encoded>
+		<wp:post_id>1033</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-31000]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Linee Guida per la Gestione del Rischio Aziendale]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1034]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-37001-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-37001-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-37001-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1037</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-37001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1036</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-37001-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-37001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-37001-logo.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-37001-logo.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-37001-logo.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1038</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-37001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1036</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-37001-logo.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-37001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 37001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-37001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. I Pilastri dell’Anticorruzione</h2>
+<p>Lo standard fornisce una serie di misure e controlli per contrastare la corruzione in diverse forme:</p>
+<ul>
+<li>Politiche e Procedure: Definizione di una politica anticorruzione chiara e supportata dall'alta direzione.</li>
+<li>Valutazione del Rischio: Identificazione sistematica delle attività aziendali più esposte a rischi di corruzione.</li>
+<li>Due Diligence: Valutazione approfondita di partner commerciali, consulenti e personale in posizioni critiche.</li>
+<li>Controlli Finanziari e Commerciali: Implementazione di verifiche rigorose su transazioni, regali e ospitalità.</li>
+<li>Canali di Segnalazione (Whistleblowing): Creazione di sistemi sicuri e riservati per denunciare sospetti di corruzione.</li>
+</ul>
+<h2>2. Vantaggi della Certificazione ISO 37001</h2>
+<ul>
+<li>Tutela Legale: Fornisce prove di diligenza e di adozione di modelli organizzativi atti a prevenire reati (es. D.Lgs. 231/01 in Italia).</li>
+<li>Reputazione Internazionale: Dimostra a partner e investitori un impegno etico di alto livello, facilitando la fiducia nei mercati esteri.</li>
+<li>Efficienza Operativa: La trasparenza nei processi riduce i costi occulti e le inefficienze legate a pratiche illecite.</li>
+<li>Accesso a Gare d'Appalto: Diventa sempre più un requisito preferenziale o obbligatorio nei contratti pubblici e nelle grandi catene di fornitura.</li>
+</ul>
+<h2>3. Sinergia con il Sistema Integrato (ESG)</h2>
+<p>La ISO 37001 completa la dimensione 'Governance' del rating ESG aziendale:</p>
+<ul>
+<li>Insieme a ISO 9001: La trasparenza e l'etica diventano parametri di qualità del servizio e del management.</li>
+<li>Insieme a ISO 27001: La protezione dei dati e delle informazioni è essenziale per garantire la riservatezza delle segnalazioni di corruzione.</li>
+<li>Insieme a PAS 24000: L'integrità sociale e il rispetto dei diritti umani sono inscindibili dalla lotta alla corruzione.</li>
+</ul>
+<p>Ottenere la certificazione ISO 37001 non significa solo rispettare la legge, ma scegliere attivamente l'etica come pilastro dello sviluppo aziendale. È un investimento che protegge l'azienda, valorizza il brand e contribuisce a un mercato più equo e trasparente.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 37001 è lo standard internazionale che definisce i requisiti per un sistema di gestione volto a prevenire, rilevare e affrontare la corruzione. Rappresenta uno strumento di governance fondamentale per promuovere una cultura di integrità, trasparenza e conformità all'interno di qualsiasi organizzazione.]]></excerpt:encoded>
+		<wp:post_id>1036</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-37001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Sistemi di Gestione per la Prevenzione della Corruzione]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1037]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-42001-hero.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-42001-hero.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-42001-hero.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1040</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-42001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1039</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-42001-hero.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-42001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-42001-logo.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-42001-logo.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-42001-logo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1041</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-42001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1039</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-42001-logo.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-42001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 42001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-42001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. L’Importanza Strategica della ISO 42001</h2>
+<p>In un contesto in cui l'IA guida decisioni critiche, questo standard garantisce:</p>
+<ul>
+<li>Governance Etica: Previene pregiudizi (bias) e assicura che le decisioni dell'IA siano trasparenti e spiegabili.</li>
+<li>Gestione del Rischio Specifico: Affronta rischi nuovi come l'allucinazione dei modelli, la sicurezza dei dati di addestramento e l'impatto sociale.</li>
+<li>Conformità Legale (EU AI Act): Fornisce il quadro tecnico necessario per allinearsi alle future normative europee obbligatorie.</li>
+<li>Fiducia degli Stakeholder: Rassicura investitori e clienti sul fatto che l'IA aziendale è sviluppata in modo responsabile.</li>
+</ul>
+<h2>2. Elementi Chiave del Sistema AIMS</h2>
+<p>Il sistema si basa sull'integrità del ciclo di vita dell'IA:</p>
+<p>Qualità dei Dati: Controllo rigoroso sui dataset per evitare discriminazioni e garantire precisione.</p>
+<p>Trasparenza e Spiegabilità: Capacità di comprendere come e perché un sistema AI ha prodotto un determinato output.</p>
+<p>Monitoraggio Continuo: Valutazione costante delle prestazioni per evitare il 'model drift' (deterioramento delle performance nel tempo).</p>
+<h2>3. Un Ecosistema Certificato e Integrato</h2>
+<p>La ISO 42001 non vive isolata, ma potenzia gli altri sistemi di gestione:</p>
+<ul>
+<li>Con ISO 9001: L'IA ottimizza i processi produttivi, ma la 42001 assicura che tale ottimizzazione sia affidabile.</li>
+<li>Con ISO 27001: Protegge la proprietà intellettuale dei modelli e la privacy dei dati sensibili usati dall'IA.</li>
+<li>Con ISO 45001: Garantisce che l'automazione intelligente non crei nuovi rischi per la sicurezza fisica dei lavoratori.</li>
+</ul>
+<p>L'adozione della ISO 42001 posiziona l'azienda all'avanguardia dell'innovazione responsabile. Non si tratta solo di tecnologia, ma di costruire un futuro dove l'intelligenza umana e quella artificiale collaborano in modo sicuro, etico e certificato.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO/IEC 42001 è il primo standard internazionale al mondo che specifica i requisiti per istituire, attuare, mantenere e migliorare un Sistema di Gestione dell'Intelligenza Artificiale (AIMS). È la risposta strutturata alle sfide etiche e tecniche poste dalla rapida diffusione dell'IA nelle organizzazioni.]]></excerpt:encoded>
+		<wp:post_id>1039</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-42001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>14</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Il Nuovo Standard per la Gestione dell’Intelligenza Artificiale (AI)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1040]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-45001-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-45001-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-45001-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1043</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-45001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1042</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-45001-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-45001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-45001-logo.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-45001-logo.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-45001-logo.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1044</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-45001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1042</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-45001-logo.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-45001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 45001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-45001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. L'importanza Strategica della ISO 45001</h2>
+<ul>
+<li>Implementare un sistema di gestione basato sulla ISO 45001 significa mettere le persone al centro dell'organizzazione. Questo standard fornisce un quadro solido per migliorare la sicurezza dei lavoratori, ridurre i rischi sul luogo di lavoro e creare condizioni di lavoro migliori e più sicure.</li>
+<li>Riduzione di Infortuni e Malattie: Attraverso una gestione proattiva, l'azienda riduce drasticamente il numero di incidenti sui lavoro e l'insorgenza di malattie professionali.</li>
+<li>Aumento della Produttività: Un ambiente di lavoro sicuro riduce i tempi di inattività dovuti a infortuni e migliora il morale dei dipendenti, aumentando l'efficienza complessiva.</li>
+<li>Conformità Legale: Aiuta le organizzazioni a soddisfare i requisiti normativi (come il D.Lgs. 81/08 in Italia), riducendo il rischio di sanzioni penali e amministrative.</li>
+<li>Miglioramento della Reputazione: Dimostra l'impegno etico dell'azienda, migliorando l'immagine verso clienti, investitori e la comunità.</li>
+</ul>
+<h2>2. | Pilastri della Norma</h2>
+<p>La ISO 45001 si basa sulla struttura ad alto livello (HLS), facilitando l'integrazione con altre norme come la ISO 9001. | suoi elementi chiave includono:</p>
+<p>a consultazione dei lavoratori a tutti i livelli.</p>
+<p>Approccio Basato sul Rischio Identificazione dei pericoli e valutazione dei ischi non solo per la sicurezza fisica, ma anche per la salute mentale.</p>
+<p>iclo PDCA Pianificare, Fare, Verificare e Agire per</p>
+<p>garantire un miglioramento continuo delle prestazioni di sicurezza.</p>
+<p>ontesto dell'Organizzazione</p>
+<p>influenzare la sicurezza sul lavoro.</p>
+<h2>3. Vantaggi Economici</h2>
+<p>sl</p>
+<p>Oltre alla protezione delle vite umane, la certificazione porta benefici finanziari tangibili: 1. Riduzione dei Premi Assicurativi: Molte assicurazioni (come l'INAIL in Italia tramite il modello 0T23) offrono sconti significativi sui premi per le aziende certificate.</p>
+<ul>
+<li>Accesso a Gare d'Appalto: Spesso la certificazione ISO 45001 è un requisito preferenziale o obbligatorio per partecipare a grandi commesse internazionali.</li>
+<li>Riduzione dei Costi Indiretti: Minori costi legati alla sostituzione di personale infortunato, indagini sugli incidenti e danni alle attrezzature.</li>
+</ul>
+<p>La certificazione ISO 45001 rappresenta la promessa di un'azienda ai propri dipendenti: la garanzia che ogni persona possa tornare a casa sana e salva ogni giorno.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 45001 è il primo standard internazionale al mondo dedicato alla Salute e Sicurezza sul Lavoro (SSL). La sua adozione non è solo un obbligo morale o legale, ma una scelta strategica che trasforma la gestione della sicurezza in un valore competitivo per l'azienda.]]></excerpt:encoded>
+		<wp:post_id>1042</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-45001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Eccellenza nella Salute e Sicurezza sul Lavoro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1043]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-50001-hero.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-50001-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-50001-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1046</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-50001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1045</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-50001-hero.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-50001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-50001-logo.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-50001-logo.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-50001-logo.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1047</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-50001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1045</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-50001-logo.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-50001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 50001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-50001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Obiettivi e Principi Cardine</h2>
+<p>L'approccio ISO 50001 si basa sul miglioramento continuo (PDCA) applicato all'uso dell'energia:</p>
+<ul>
+<li>Efficienza Energetica: Ottimizzazione del consumo di energia per unità di prodotto o servizio.</li>
+<li>Monitoraggio Costante: Utilizzo di indicatori di prestazione energetica (EnPI) per misurare i risultati.</li>
+<li>Sicurezza Energetica: Riduzione della dipendenza da fonti esterne e gestione dei rischi di fornitura.</li>
+<li>Riduzione dell'Impronta di Carbonio: Contributo diretto alla lotta contro il cambiamento climatico.</li>
+</ul>
+<h2>2. Vantaggi per l’Azienda e l’Officina</h2>
+<ul>
+<li>Abbattimento dei Costi: Riduzione immediata delle bollette energetiche attraverso l'eliminazione degli sprechi.</li>
+<li>Conformità Legislativa: Risposta agli obblighi di diagnosi energetica (es. D.Lgs. 102/2014 in Italia).</li>
+<li>Migliore Manutenzione: L'analisi dei consumi anomali aiuta a identificare malfunzionamenti nei macchinari (meccanici e addetti officina).</li>
+<li>Rating ESG: Miglioramento della posizione aziendale verso investitori e partner commerciali.</li>
+</ul>
+<h2>3. Sinergia con il Sistema Integrato</h2>
+<p>La ISO 50001 è il complemento ideale per le certificazioni già acquisite:</p>
+<ul>
+<li>ISO 14001: Mentre la 14001 gestisce l'impatto ambientale globale, la 50001 entra nel dettaglio dei consumi energetici.</li>
+<li>ISO 55001: La gestione degli asset (macchinari) deve includere l'efficienza energetica per ridurre i costi totali di possesso.</li>
+<li>ISO 9001: Processi energeticamente efficienti sono sinonimo di processi di qualità e controllo operativo.</li>
+<li>ISO 31000: La gestione del rischio energetico (prezzi volatili, interruzioni) è parte fondamentale della strategia aziendale.</li>
+</ul>
+<p>Implementare la ISO 50001 significa trasformare l'energia da un costo fisso a una variabile gestibile e migliorabile. È un passo essenziale per un'azienda che punta alla sostenibilità economica e ambientale nel lungo termine.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 50001 è lo standard internazionale che permette alle organizzazioni di stabilire i sistemi e i processi necessari per migliorare la propria prestazione energetica. L’obiettivo è ridurre i costi legati all’energia, le emissioni di gas serra e altri impatti ambientali attraverso una gestione sistematica dell’energia.]]></excerpt:encoded>
+		<wp:post_id>1045</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-50001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[L’Importanza del Sistema di Gestione dell’Energia]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1046]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-55001-hero.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-55001-hero.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-55001-hero.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1049</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-55001-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1048</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-55001-hero.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-55001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iso-55001-logo.png</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-55001-logo.png</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-55001-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1050</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-55001-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1048</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/iso-55001-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iso-55001]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ISO 55001</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-iso-55001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Gestione del Ciclo di Vita</h2>
+<p>L'approccio della norma copre ogni fase operativa, garantendo efficienza dal principio alla fine:</p>
+<ul>
+<li>Pianificazione e Acquisizione: Scelta strategica dei macchinari in base alle esigenze reali.</li>
+<li>Messa in Servizio: Integrazione sicura e ottimale nei processi produttivi.</li>
+<li>Esercizio e Manutenzione: Monitoraggio costante per prevenire guasti e fermi macchina.</li>
+<li>Dismissione o Rinnovo: Gestione del fine vita in ottica di sostenibilità ed economia circolare.</li>
+</ul>
+<h2>2. Perché è fondamentale per l’azienda?</h2>
+<ul>
+<li>Riduzione dei Costi Operativi: Ottimizzazione della manutenzione e riduzione degli sprechi.</li>
+<li>Miglioramento della Performance: Maggiore disponibilità e affidabilità degli impianti.</li>
+<li>Gestione del Rischio: Prevenzione di incidenti critici che potrebbero bloccare la produzione.</li>
+<li>Decisioni Informate: Dati chiari per decidere quando riparare o quando sostituire un asset.</li>
+</ul>
+<h2>3. Sinergia con le altre Certificazioni</h2>
+<p>La ISO 55001 non lavora da sola, ma potenzia gli standard già presenti:</p>
+<ul>
+<li>ISO 9001: Garantisce che le macchine producano sempre con la qualità richiesta.</li>
+<li>ISO 45001: Asset ben manutenuti riducono drasticamente i rischi per i meccanici e gli addetti officina.</li>
+<li>ISO 14001: Supporta la sostenibilità riducendo l'impatto ambientale legato a guasti o inefficienze energetiche.</li>
+<li>Modello 231: Dimostra una gestione trasparente e diligente del patrimonio aziendale.</li>
+</ul>
+<p>Adottare la ISO 55001 significa smettere di vedere la manutenzione come un costo e iniziare a vederla come un investimento strategico per la crescita e la resilienza aziendale.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La norma ISO 55001 definisce i requisiti per un sistema di gestione degli asset (beni fisici), fornendo un quadro strutturato per massimizzare il valore generato dai macchinari, dalle infrastrutture e dalle attrezzature lungo tutto il loro ciclo di vita.]]></excerpt:encoded>
+		<wp:post_id>1048</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[iso-55001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="iso"><![CDATA[ISO]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[L’Importanza della Gestione degli Asset Aziendali]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1049]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>marcatura-ce-hero.webp</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/marcatura-ce-hero.webp</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/marcatura-ce-hero.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1052</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[marcatura-ce-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1051</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/marcatura-ce-hero.webp]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_hero_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[marcatura-ce]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>marcatura-ce-logo.jpg</title>
+		<link>https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/marcatura-ce-logo.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/marcatura-ce-logo.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1053</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[marcatura-ce-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1051</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/alessiomonzillo/maci-certificazioni/main/import-assets/marcatura-ce-logo.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_is_logo_for]]></wp:meta_key>
+			<wp:meta_value><![CDATA[marcatura-ce]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Marcatura CE</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-marcatura-ce</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. La Marcatura CE: Il Passaporto del Prodotto</h2>
+<p>La Marcatura CE attesta che il prodotto è conforme ai requisiti essenziali di salute e sicurezza (RES) previsti dalle direttive o dai regolamenti comunitari applicabili. Per le macchine, il riferimento principale è la Direttiva Macchine 2006/42/CE (e il futuro Regolamento Macchine).</p>
+<ul>
+<li>Dichiarazione di Conformità: Il documento legale con cui il fabbricante si assume la responsabilità della sicurezza del prodotto.</li>
+<li>Fascicolo Tecnico: La raccolta di prove, calcoli e analisi dei rischi che giustificano l'apposizione del marchio.</li>
+<li>Libera Circolazione: Permette di vendere la macchina in tutti i paesi UE senza barriere tecniche.</li>
+</ul>
+<h2>2. Perché la Certificazione è Cruciale</h2>
+<p>La certificazione delle macchine non è solo burocrazia, ma una protezione per l'azienda:</p>
+<p>Tutela Legale e Penale: In caso di infortunio, la dimostrazione della conformità della macchina è la principale difesa per il datore di lavoro e il fabbricante.</p>
+<p>Analisi dei Rischi: Identificare i pericoli (meccanici, elettrici, rumore, vibrazioni) permette di implementare protezioni adeguate prima che avvenga un incidente.</p>
+<p>Manutenzione e Manualistica: Una macchina certificata include istruzioni chiare per l'uso e la manutenzione, riducendo guasti e fermi produzione.</p>
+<h2>3. Sinergia con i Sistemi di Gestione</h2>
+<p>L'acquisto di macchinari correttamente certificati è fondamentale per:</p>
+<ul>
+<li>ISO 45001: Ridurre il rischio residuo sul luogo di lavoro tramite attrezzature a norma.</li>
+<li>ISO 9001: Garantire la ripetibilità dei processi produttivi con macchine affidabili e sicure.</li>
+<li>Responsabilità Sociale: Dimostrare l'impegno dell'azienda verso la protezione dei propri dipendenti.</li>
+</ul>
+<p>Ignorare la Marcatura CE comporta rischi gravissimi: dal sequestro della merce a pesanti sanzioni pecuniarie, fino alla responsabilità penale in caso di infortuni. La sicurezza delle macchine è l'investimento più efficace per proteggere il capitale umano e la continuità del business.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La Marcatura CE e la certificazione delle macchine rappresentano l'elemento cardine per la libera circolazione dei beni industriali all'interno del Mercato Unico Europeo. Non si tratta di una scelta volontaria (come le norme ISO), ma di un obbligo di legge imprescindibile per fabbricanti, importatori e utilizzatori.]]></excerpt:encoded>
+		<wp:post_id>1051</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[marcatura-ce]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="macchine"><![CDATA[Macchine]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Guida alla Conformità Europea]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1052]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>

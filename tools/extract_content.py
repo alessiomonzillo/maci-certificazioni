@@ -170,18 +170,19 @@ def build_html(blocks):
         nonlocal cur_list
         if cur_list != kind:
             close_list(); out.append("<%s>" % kind); cur_list = kind
+    esc = lambda t: html.escape(t, quote=False)  # apostrofi/virgolette restano leggibili nel CDATA
     for b in blocks:
         t, role = b["text"], b["role"]
         if role == "heading":
-            close_list(); out.append("<h2>%s</h2>" % html.escape(t))
+            close_list(); out.append("<h2>%s</h2>" % esc(t))
         elif role == "subheading":
-            close_list(); out.append("<h3>%s</h3>" % html.escape(t))
+            close_list(); out.append("<h3>%s</h3>" % esc(t))
         elif role == "list":
-            open_list("ul"); out.append("<li>%s</li>" % html.escape(t))
+            open_list("ul"); out.append("<li>%s</li>" % esc(t))
         elif role == "olist":
-            open_list("ol"); out.append("<li>%s</li>" % html.escape(t))
+            open_list("ol"); out.append("<li>%s</li>" % esc(t))
         else:
-            close_list(); out.append("<p>%s</p>" % html.escape(t))
+            close_list(); out.append("<p>%s</p>" % esc(t))
     close_list()
     return "\n".join(out)
 

@@ -60,6 +60,7 @@ require_once MAS_CERT_PATH . 'includes/class-cpt.php';
 require_once MAS_CERT_PATH . 'includes/class-meta.php';
 require_once MAS_CERT_PATH . 'includes/class-templates.php';
 require_once MAS_CERT_PATH . 'includes/class-assets.php';
+require_once MAS_CERT_PATH . 'includes/class-import-logos.php';
 
 /* -------------------------------------------------------------------------
  * BOOTSTRAP
@@ -84,6 +85,10 @@ function mas_cert_bootstrap() {
 	// Enqueue di CSS e JS (front-end).
 	$assets = new MAS_Cert_Assets();
 	$assets->register_hooks();
+
+	// Risolutore post-import (collega logo + immagine in evidenza dopo il WXR).
+	$import = new MAS_Cert_Import_Logos();
+	$import->register_hooks();
 }
 add_action( 'plugins_loaded', 'mas_cert_bootstrap' );
 
