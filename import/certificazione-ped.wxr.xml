@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>MA.CI Certificazioni - PED</title>
+	<link>https://www.masprevenzione.it</link>
+	<description>Import certificazione PED</description>
+	<pubDate>Fri, 19 Jun 2026 09:02:22 +0000</pubDate>
+	<language>it-IT</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.masprevenzione.it</wp:base_site_url>
+	<wp:base_blog_url>https://www.masprevenzione.it</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:term><wp:term_id>102</wp:term_id><wp:term_taxonomy>mas_cert_categoria</wp:term_taxonomy><wp:term_slug>macchine</wp:term_slug><wp:term_name><![CDATA[Macchine]]></wp:term_name></wp:term>
+	<item>
+		<title>Certificazione PED</title>
+		<link></link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">cert-certificazione-ped</guid>
+		<description></description>
+		<content:encoded><![CDATA[<table class="mas-cert-callout"><tbody><tr><td>Sintesi Normativa: La Direttiva PED disciplina la progettazione, la fabbricazione e la valutazione di conformità delle attrezzature a pressione e degli insiemi aventi una pressione massima ammissibile (PS) superiore a 0,5 bar relativi, ai fini della marcatura CE.</td></tr></tbody></table>
+<h2>1. Introduzione e Definizioni</h2>
+<h3>1.1 Tipologie di Attrezzature</h3>
+<ul>
+<li>Recipienti: Alloggiamenti progettati e costruiti per contenere fluidi in pressione (es. serbatoi, scambiatori).</li>
+<li>Tubazioni: Componenti destinati al trasporto di fluidi in un sistema a pressione.</li>
+<li>Accessori a pressione: Dispositivi con funzione di servizio (es. valvole, filtri).</li>
+<li>Accessori di sicurezza: Dispositivi per la protezione dai superamenti dei limiti (es. valvole di sicurezza).</li>
+<li>Insiemi: Elementi assemblati da un fabbricante per costituire un tutto integrato (es. caldaie).</li>
+</ul>
+<h2>2. Categorie di Rischio</h2>
+<p>Le attrezzature sono suddivise in quattro categorie di rischio (dalla I alla IV) in base alla pericolosità del fluido (Gruppo 1 per fluidi infiammabili/tossici, Gruppo 2 per fluidi neutri) e alle grandezze fisiche (prodotto Pressione per Volume [PS x V] o Pressione per Diametro [PS x DN]). Al di sotto della Categoria I si applica l'Articolo 4 Comma 3 (SEP), che impone la Corretta Prassi Costruttiva senza marcatura CE.</p>
+<h2>3. Moduli di Conformità</h2>
+<p>A seconda della categoria di appartenenza del prodotto, il fabbricante deve seguire specifici moduli di valutazione, che determinano il livello di sorveglianza da parte di un Organismo Notificato:</p>
+<table>
+<thead><tr><th>Categoria</th><th>Moduli</th><th>Coinvolgimento Ente Terzo</th></tr></thead>
+<tbody>
+<tr><td>Categoria I</td><td>Modulo A</td><td>Nessuno (Autocertificazione interna del fabbricante).</td></tr>
+<tr><td>Categoria II</td><td>A2, D1, E1</td><td>Sorveglianza o prove a intervalli casuali sulla produzione.</td></tr>
+<tr><td>Categoria III</td><td>B+C2, B+D, B+E, F, H</td><td>Esame del progetto/tipo o Certificazione Sistema Qualità.</td></tr>
+<tr><td>Categoria IV</td><td>B+D, B+F, G, H1</td><td>Ispezione su ogni singolo pezzo (G) o Garanzia Qualità Totale con esame del progetto (H1).</td></tr>
+</tbody></table>
+<h2>4. Requisiti Essenziali di Sicurezza</h2>
+<ul>
+<li>Progettazione basata su norme armonizzate (es. EN 13445 per recipienti, EN 13480 per tubazioni).</li>
+<li>Materiali tracciabili con certificati di controllo idonei (es. tipo 3.1 o 3.2 secondo EN 10204).</li>
+<li>Giunzioni permanenti (saldature) eseguite da personale qualificato e approvato da ente terzo per Cat. II, III, IV.</li>
+<li>Esecuzione obbligatoria del collaudo finale mediante Prova Idraulica di pressione.</li>
+<li>Redazione del Manuale di Istruzioni d'Uso e Manutenzione.</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[La Direttiva PED (Pressure Equipment Directive) 2014/68/UE è una norma europea cogente che si applica all'immissione sul mercato e alla messa in servizio delle attrezzature in pressione. Essa protegge la sicurezza di persone, animali e beni dai rischi associati a guasti ed esplosioni strutturali.]]></excerpt:encoded>
+		<wp:post_id>1200</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[certificazione-ped]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[mas_certificazione]]></wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="mas_cert_categoria" nicename="macchine"><![CDATA[Macchine]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mas_cert_sottotitolo]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Guida Tecnica ai Requisiti, Classificazione di Rischio e Valutazione della Conformità]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>
