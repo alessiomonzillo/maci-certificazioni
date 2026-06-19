@@ -1,0 +1,221 @@
+{
+  "UNI/PdR 125": {
+    "folder": "ISO 27001/UNI PDR 125 2022",
+    "hero": "UNI PDR 125 2022 .png",
+    "logo": "UNI PDR 125 2022 foto.png",
+    "candidates": [
+      "UNI PDR 125 2022 .png",
+      "UNI PDR 125 2022 foto.png",
+      "UNI PDR 125 2022 idea.png",
+      "uni pdr 125 del 2022.jpeg"
+    ],
+    "low_confidence": false
+  },
+  "Modello 231": {
+    "folder": "IL MODELLO 231",
+    "hero": "modello-organizzativo-231.jpg",
+    "logo": "IL MODELLO 231.png",
+    "candidates": [
+      "IL MODELLO 231 IDEE.png",
+      "IL MODELLO 231.png",
+      "Modello_organizzativo_231 IDEE.jpg",
+      "modello-231.webp",
+      "modello-organizzativo-231.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 9001": {
+    "folder": "ISO 9001",
+    "hero": "iso-9001.jpg",
+    "logo": "ISO-9001.png",
+    "candidates": [
+      "ISO-9001.png",
+      "iso 9001 inspo.jpg",
+      "iso-9001.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 14001": {
+    "folder": "ISO 14001",
+    "hero": "ISO-140012026.webp",
+    "logo": "iso 14001.webp",
+    "candidates": [
+      "IDEE.jpg",
+      "INSPO.jpg",
+      "ISO 14001.jpg",
+      "ISO-14001-.jpg",
+      "ISO-140012026.webp",
+      "iso 14001 idee.webp",
+      "iso 14001.webp",
+      "iso-14001-foto idea.png"
+    ],
+    "low_confidence": false
+  },
+  "ISO 14064": {
+    "folder": "ISO 14064",
+    "hero": "ISO 14064.png",
+    "logo": "ISO_14064-.png",
+    "candidates": [
+      "FOTO IDEE.jpg",
+      "IDEE.jpg",
+      "ISO 14064.png",
+      "ISO-14064 FOTO.png",
+      "ISO_14064-.png",
+      "images.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 15189": {
+    "folder": "ISO 15189 DA INSERIRE INSIEME  PER CAPIRE COME FARE",
+    "hero": "uni-en-iso-15189-2023---requisiti-qualit--competenza-laboratori-medici.png",
+    "logo": "FOTO.png",
+    "candidates": [
+      "FOTO.png",
+      "IDEE.png",
+      "iso-15189-certification.png",
+      "iso-15189.webp",
+      "uni-en-iso-15189-2023---requisiti-qualit--competenza-laboratori-medici.png",
+      "uni-en-iso-15189-2024.png"
+    ],
+    "low_confidence": false
+  },
+  "ISO 20121": {
+    "folder": null,
+    "hero": "CERTIFICAZIONI ISO.webp",
+    "logo": "certificazione-iso.png",
+    "candidates": [
+      "CERTIFICAZIONI ISO.webp",
+      "certificati iso inspo.jpg",
+      "certificazione-iso.png"
+    ],
+    "low_confidence": false
+  },
+  "ISO 22000": {
+    "folder": "ISO 22000",
+    "hero": "iso 22000 idea.jpg",
+    "logo": "iso-22000.webp",
+    "candidates": [
+      "iso 22000 idea.jpg",
+      "iso 22000 idee.jpg",
+      "iso 22000.png",
+      "iso-22000.webp"
+    ],
+    "low_confidence": false
+  },
+  "ISO 22301": {
+    "folder": "ISO 22301",
+    "hero": "ISO-22301-Business-Continuity.webp",
+    "logo": "iso-22301-FOTO.webp",
+    "candidates": [
+      "ISO-22301-Business-Continuity.webp",
+      "iso-22301-FOTO.webp"
+    ],
+    "low_confidence": false
+  },
+  "PAS 24000": {
+    "folder": "PAS-2400 2022",
+    "hero": "PAS-24000-Sistema-di-Gestione-per-la-Responsabilita-Sociale.jpg",
+    "logo": "Pas-24000-2022.png",
+    "candidates": [
+      "PAS-24000-Sistema-di-Gestione-per-la-Responsabilita-Sociale.jpg",
+      "Pas-24000-2022.png"
+    ],
+    "low_confidence": false
+  },
+  "ISO 27001": {
+    "folder": "ISO 27001",
+    "hero": "ISO-27001 INSPO.jpg",
+    "logo": "ISO 27001.avif",
+    "candidates": [
+      "ISO 2001 FOTO.jpg",
+      "ISO 27001 IDEE.webp",
+      "ISO 27001.avif",
+      "ISO-27001 INSPO.jpg",
+      "ISO_27001 IDEE.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 31000": {
+    "folder": "ISO 31000",
+    "hero": "ISO 31000.jpg",
+    "logo": "ISO-31000 IDEE.webp",
+    "candidates": [
+      "IDEE.jpg",
+      "ISO 31000.jpg",
+      "ISO-31000 IDEE.webp"
+    ],
+    "low_confidence": false
+  },
+  "ISO 37001": {
+    "folder": "ISO 37001",
+    "hero": "iso-37001-iso-certificazioni.jpg",
+    "logo": "ISO 37001.jpg",
+    "candidates": [
+      "IDEE.png",
+      "ISO 37001 IDEE.jpg",
+      "ISO 37001 IDEE.png",
+      "ISO 37001.jpg",
+      "iso-37001-iso-certificazioni.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 42001": {
+    "folder": "ISO 42001",
+    "hero": "ISO-42001.webp",
+    "logo": "iso-42001-FOTO.webp",
+    "candidates": [
+      "FOTO IDEE.jpg",
+      "ISO-42001.webp",
+      "images.jpg",
+      "iso-42001-FOTO.webp",
+      "iso-iec-42001-2023-guidance-for-ai-system-management.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 45001": {
+    "folder": "ISO 45001",
+    "hero": "iso-45001.jpg",
+    "logo": "iso-45001-iso-certificazioni.jpg",
+    "candidates": [
+      "FOTO.jpg",
+      "IDEE.jpg",
+      "images.jpg",
+      "img-norma-iso-45001.jpg",
+      "iso-45001-iso-certificazioni.jpg",
+      "iso-45001.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 50001": {
+    "folder": "ISO 50001 2018",
+    "hero": "LOGO 5001.jpg",
+    "logo": "ISO 5001 FOTO.jpg",
+    "candidates": [
+      "ISO 5001 FOTO.jpg",
+      "LOGO 5001 IDEE.jpg",
+      "LOGO 5001.jpg"
+    ],
+    "low_confidence": false
+  },
+  "ISO 55001": {
+    "folder": "ISO 55001 2014",
+    "hero": "INSPO.webp",
+    "logo": "images.png",
+    "candidates": [
+      "IDEE.png",
+      "INSPO.webp",
+      "images.png"
+    ],
+    "low_confidence": true
+  },
+  "Marcatura CE": {
+    "folder": "COPERTINA SICUREZZA MACCHINE EMARCATURA CE",
+    "hero": "marcatura-CE-.webp",
+    "logo": "marcatura-CE-dispositivi-anticaduta.jpg",
+    "candidates": [
+      "marcatura-CE-.webp",
+      "marcatura-CE-dispositivi-anticaduta.jpg"
+    ],
+    "low_confidence": false
+  }
+}
